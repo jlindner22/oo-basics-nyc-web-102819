@@ -17,7 +17,5 @@ class Shoe
  def condition
    @condition
  end
- 
-  cobble.condition = "new"
 
 end
