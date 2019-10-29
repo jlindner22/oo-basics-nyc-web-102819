@@ -18,6 +18,6 @@ class Shoe
    @condition
  end
  
-  cobble.condition == "new"
+  cobble.condition = "new"
 
 end
