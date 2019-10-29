@@ -12,10 +12,12 @@ class Shoe
   
   def condition=(condition)
  @condition = condition
- cobble.condition == "new"
  end
  
  def condition
    @condition
  end
+ 
+  cobble.condition == "new"
+
 end
